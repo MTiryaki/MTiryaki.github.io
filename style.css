@@ -12,12 +12,12 @@ p {
 a{
   color: lightblue;
 }
-.menupootis {
+.navbar {
     margin:auto;
     width:815px;
     height:30px;
 }
-.menupoois,.menupoois:active,.menupoois:visited {
+.navbarlink,.navbarlink:active,.navbarlink:visited {
     width:1400px;
     height:98px;
     color:white;
@@ -26,7 +26,7 @@ a{
     font-size:24px;
     margin:auto;
 }
- .menupoois:hover {
+ .navbarlink:hover {
     width:1400px;
     height:100px;
     margin:auto;
@@ -34,9 +34,4 @@ a{
     background-color:royalblue;
     text-align:center;
     font-size:24px;
-    }
-    .baslik {
-    width:800px;
-    height:120px;
-    margin:auto;
 }
