@@ -21,6 +21,8 @@ div.mainpage_speech{
   margin-left: 15%;
   margin-right: 15%;
   margin-top: 8%;
+  margin-bottom: 5%;
+  font-family: 'Roboto', sans-serif;
 }
 li a, .dropbtn {
     display: inline-block;
@@ -29,7 +31,9 @@ li a, .dropbtn {
     padding: 14px 16px;
     text-decoration: none;
 }
-
+div.insertcoin{
+  font-family: 'Roboto', sans-serif;
+}
 li a:hover, .dropdown:hover .dropbtn {
     background-color:lightsteelblue;
 }
