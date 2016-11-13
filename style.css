@@ -16,6 +16,13 @@ ul {
 li {
     float: left;
 }
+iframe.appframe{
+  height: 500px;
+  width: 760px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+}
 div.mainpage_speech{
   background-color: transparent;
   margin-left: 15%;
