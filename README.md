@@ -1,3 +1,4 @@
 # MTiryaki.github.io
 
-Welcome to the repository of the 60MUN Website, created by the one-man army Mert Tiryaki.
+Repo for 60MUN Website, maintained by Mert Tiryaki.
+A big thanks to Samantha P. for helping me with layout issues.
