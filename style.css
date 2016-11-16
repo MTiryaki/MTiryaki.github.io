@@ -18,6 +18,17 @@ li {
 p{
     font-family: 'Roboto',sans-serif;
 }
+h1{
+  font-family: 'Roboto',sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+h2{
+
+}
+h3{
+
+}
 img.logo{
   margin: 10px 10px 10px 10px;
   height: 15%;
@@ -50,6 +61,12 @@ div.mainpage_speech{
 }
 /* iframe stuff*/
 ul.iframelink{
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+ul.commframelink{
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
