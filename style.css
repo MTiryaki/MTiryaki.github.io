@@ -2,7 +2,7 @@ body {
     background-color: white;
 }
 h1 {
-    color: white;
+    color: black;
     text-align: center;
 }
 ul {
@@ -31,8 +31,7 @@ h3{
 }
 img.logo{
   margin: 10px 10px 10px 10px;
-  height: 15%;
-  width: 15%;
+  width: 5%;
 }
 /* -- DIVS -- */
 div.iframediv{
@@ -53,10 +52,9 @@ div.committeeframediv{
   margin-right: auto;
 }
 div.mainpage_speech{
-  margin-left: 15%;
-  margin-right: 15%;
-  margin-top: 8%;
-  margin-bottom: 5%;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
   font-family: 'Roboto', sans-serif;
 }
 div.faq{
