@@ -41,7 +41,7 @@ div.iframediv{
   margin-right: auto;
 }
 div.iframelinkdiv{
-  width: 61%;
+  width: 78.45%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -50,6 +50,12 @@ div.committeeframediv{
   width:80%;
   margin-left: auto;
   margin-right: auto;
+}
+div.committeeframelinkdiv{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 div.mainpage_speech{
   width: 80%;
@@ -76,12 +82,6 @@ h2{
 }
 /* iframe stuff*/
 ul.iframelink{
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 10px;
-}
-ul.commframelink{
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
