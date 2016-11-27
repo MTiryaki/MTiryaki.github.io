@@ -15,17 +15,6 @@ ul {
 li {
     float:left;
 }
-p{
-    font-family: 'Roboto',sans-serif;
-}
-h1{
-  font-family: 'Roboto',sans-serif;
-  font-size: 40px;
-  font-weight: bold;
-}
-h2{
-
-}
 h3{
 
 }
@@ -76,8 +65,16 @@ div.committeeframecontent{
   margin-right: auto;
 }
 /* text stuff*/
+p{
+    font-family: 'Roboto',sans-serif;
+}
+h1{
+  font-family: 'Roboto',sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
 h2{
-  color: orange;
+  color: royalblue;
   font-family: 'Oswald',sans-serif;
 }
 /* iframe stuff*/
