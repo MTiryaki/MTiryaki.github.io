@@ -15,12 +15,15 @@ ul {
 li {
     float:left;
 }
-h3{
-
-}
 img.logo{
   margin: 10px 10px 10px 10px;
-  width: 5%;
+  width: 10%;
+}
+img.banner{
+  width: 100%;
+}
+li.navbar_hidden{
+  color: royalblue;
 }
 /* -- DIVS -- */
 div.iframediv{
@@ -41,7 +44,7 @@ div.committeeframediv{
   margin-right: auto;
 }
 div.committeeframelinkdiv{
-  width: 40%;
+  width: 33.1%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -63,6 +66,11 @@ div.committeeframecontent{
   width: 90%;
   margin-left: auto;
   margin-right: auto;
+}
+div.banner_wrapper{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 /* text stuff*/
 p{
