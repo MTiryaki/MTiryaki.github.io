@@ -33,10 +33,11 @@ div.iframediv{
   margin-right: auto;
 }
 div.iframelinkdiv{
-  width: 78.45%;
+  width: 83.25%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 div.committeeframediv{
   width:80%;
@@ -44,10 +45,11 @@ div.committeeframediv{
   margin-right: auto;
 }
 div.committeeframelinkdiv{
-  width: 33.1%;
+  width: 33%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 div.mainpage_speech{
   width: 80%;
@@ -61,6 +63,12 @@ div.faq{
   margin-right: auto;
   font-family: 'Open Sans',sans-serif;
 }
+div.payment_faq{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Roboto',sans-serif;
+}
 div.committeeframecontent{
   font-family: 'Roboto',sans-serif;
   width: 90%;
@@ -72,10 +80,14 @@ div.banner_wrapper{
   margin-right: auto;
   width: 50%;
 }
-/* text stuff*/
-p{
-    font-family: 'Roboto',sans-serif;
+div.countdown_wrapper{
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'VT323';
 }
+/* text stuff*/
 h1{
   font-family: 'Roboto',sans-serif;
   font-size: 40px;
