@@ -25,7 +25,21 @@ img.banner{
 li.navbar_hidden{
   color: royalblue;
 }
+img.icon{
+  width:30%;
+}
+img.bgimg{
+  margin-left: auto;
+  margin-right: auto;
+  
+}
 /* -- DIVS -- */
+div.socialmedia{
+  width: 20%;
+  float: right;
+  margin-top: 3.75%;
+  margin-right: 1%
+}
 div.iframediv{
   width: 760px;
   margin-top: 10px;
@@ -33,7 +47,7 @@ div.iframediv{
   margin-right: auto;
 }
 div.iframelinkdiv{
-  width: 83.25%;
+  width: 89.49%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -94,7 +108,7 @@ h1{
   font-weight: bold;
 }
 h2{
-  color: royalblue;
+  color: orange;
   font-family: 'Oswald',sans-serif;
 }
 /* iframe stuff*/
