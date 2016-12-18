@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto|VT323">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css">
+  <link rel="stylesheet" href="style.css">
   <title>Homepage - 60MUN</title>
 </head>
 <body>
@@ -37,32 +37,25 @@
 </script></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
 <script src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
-<div class="carousel_nav">
-  <div>test</div>
-  <div>test2</div>
+<div class="carouselnav">
+  <div><a href="applications.html"><img src="header.png" class="banner"></a></div>
+  <div class="carouselcontent">
+    <img class="carousel" src="pic1.jpg">
+  </div>
+  <div>
+    <img src="pic2.jpg" class="carousel">
+  </div>
+  <div>
+    <img src="pic4.jpg" class="carousel">
+  </div>
 </div>
-    <div class="banner_wrapper">
-      <div><a href="http://www.google.com">GOOGLE</a></div>
-      <div>TESTING TESTING TESTING</div>
-      <div>MORE TESTING</div>
-      <div>AAAAAAAAAAAAAAA</div>
-      <div><a href="applications.html"><img src="header.png" class="banner"></a></div>
-    </div>
     <script type="text/javascript">
     $(document).ready(function(){
-  $('.banner_wrapper').slick({
-    slidesToShow: 3,
-    slidesToScroll: 1,
-    autoplay: true,
-    autoplaySpeed: 2000,
-    asNavFor: '.carousel_nav',
-  });
-  $('.carousel_nav').slick({
+  $('.carouselnav').slick({
     slidesToShow:1,
     slidesToScroll:1,
-    arrows:false,
     fade:true,
-    asNavFor:'.banner_wrapper',
+    dots:false,
   });
   });
     </script>
