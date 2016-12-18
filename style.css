@@ -93,7 +93,10 @@ div.payment_faq{
   margin-right: auto;
   font-family: 'Roboto',sans-serif;
   background: url('blank_bg.png') center no-repeat;
+  font-weight: bolder;
   background-size:contain;
+  color: #724600;
+  text-align: center;
 }
 div.committeeframecontent{
   font-family: 'Roboto',sans-serif;
@@ -128,11 +131,11 @@ h1{
   font-weight: bold;
 }
 h2{
-  color: orange;
+  color: #a36400;
   font-family: 'Oswald',sans-serif;
 }
 h4{
-  color: orange;
+  color:#a36400;
   font-weight: bold;
   font-family: 'Roboto',sans-serif;
   text-align: center;
