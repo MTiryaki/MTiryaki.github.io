@@ -133,6 +133,20 @@ div.carouselcontent{
   margin-left: auto;
   margin-right: auto;
 }
+div.schedule_left{
+  width: 25%;
+  margin-left: 20%;
+  text-align: center;
+  float: left;
+  font-family: 'Roboto',sans-serif;
+}
+div.schedule_right{
+  width: 25%;
+  margin-right: 20%;
+  text-align: center;
+  float: right;
+  font-family: 'Roboto',sans-serif;
+}
 /* text stuff*/
 h1{
   font-family: 'Roboto',sans-serif;
@@ -142,6 +156,12 @@ h1{
 h2{
   color: #a36400;
   font-family: 'Oswald',sans-serif;
+}
+h3{
+  color: #a36400;
+  font-family: 'Roboto',sans-serif;
+  font-size: 30px;
+  font-weight: bold;
 }
 h4{
   color:#a36400;
