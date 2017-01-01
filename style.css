@@ -48,6 +48,30 @@ img.carousel{
   margin-left: auto;
   margin-right: auto;
 }
+img.hotel2 {
+  width: 46%;
+  margin-left: 2%;
+  margin-bottom: 2%;
+}
+img.hotel3{
+  width: 46%;
+  margin-right: 2%;
+}
+img.hotel1{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  display: block;
+}
+img.about_pics{
+  display: block;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
 /* -- DIVS -- */
 div.socialmedia{
   width: 20%;
@@ -145,6 +169,28 @@ div.schedule_right{
   margin-right: 20%;
   text-align: center;
   float: right;
+  font-family: 'Roboto',sans-serif;
+}
+div.about_pics_left{
+  width:25%;
+  margin-left: 10%;
+  margin-top: 2%;
+  float: left;
+  text-align: center;
+  font-family: 'Roboto',sans-serif;
+}
+div.about_pics_mid{
+  width: 26%;
+  margin-left: 2%;
+  margin-right: 2%;
+  text-align: center;
+  font-family: 'Roboto',sans-serif;
+}
+div.about_pics_right{
+  width: 25%;
+  margin-right: 10%;
+  float: right;
+  text-align: center;
   font-family: 'Roboto',sans-serif;
 }
 /* text stuff*/
