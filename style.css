@@ -175,23 +175,26 @@ div.about_pics_left{
   width:25%;
   margin-left: 10%;
   margin-top: 2%;
-  float: left;
   text-align: center;
   font-family: 'Roboto',sans-serif;
+  float:left;
 }
 div.about_pics_mid{
-  width: 26%;
+  width: 25%;
   margin-left: 2%;
   margin-right: 2%;
+  margin-top: 2%;
   text-align: center;
   font-family: 'Roboto',sans-serif;
+  float: left;
 }
 div.about_pics_right{
   width: 25%;
   margin-right: 10%;
-  float: right;
+  margin-top: 2%;
   text-align: center;
   font-family: 'Roboto',sans-serif;
+  float: right;
 }
 /* text stuff*/
 h1{
