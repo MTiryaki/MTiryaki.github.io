@@ -72,6 +72,11 @@ img.about_pics{
   margin-bottom: 1%;
   margin-top: 1%;
 }
+img.sgdownload{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 /* -- DIVS -- */
 div.socialmedia{
   width: 20%;
@@ -195,6 +200,9 @@ div.about_pics_right{
   text-align: center;
   font-family: 'Roboto',sans-serif;
   float: right;
+}
+div.starwarsthing{
+  text-align: center;
 }
 /* text stuff*/
 h1{
