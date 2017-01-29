@@ -77,6 +77,13 @@ img.sgdownload{
   margin-left: auto;
   margin-right: auto;
 }
+img.socialpic{
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2%;
+  display: block;
+}
 /* -- DIVS -- */
 div.socialmedia{
   width: 20%;
