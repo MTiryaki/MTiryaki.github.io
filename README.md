@@ -1,2 +1,2 @@
 # MTiryaki.github.io
-Repo for BKLMUN website. Former repo for 60MUN websites.
+Repo for MUNUAL website. Former repo for 60MUN/BKLMUN websites.
