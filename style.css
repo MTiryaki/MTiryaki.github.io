@@ -1,23 +1,11 @@
 body {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .blacktext {
-  color: #000000;
+  color: #fedc0d;
 }
 .blackbg {
-  background-color: #000000;
-}
-.redtext{
-  color: #ec1c24;
-}
-.redbg{
-  background-color: #ec1c24;
-}
-.whitetext{
-  color:#ffffff;
-}
-.whitebg{
- background-color: #ffffff;
+  background-color: #954091;
 }
 a:hover{
   color: #ffffff;
